@@ -1,6 +1,5 @@
 class Solution {
 public:
-
 bool ispossible(vector<int>&stalls, int n, int k, int mid){
     int c = 1;
     int pos = stalls[0];
