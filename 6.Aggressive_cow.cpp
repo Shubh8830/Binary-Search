@@ -9,7 +9,8 @@ bool ispossible(vector<int>&stalls, int n, int k, int mid){
             c++;
             pos =stalls[i];
         }
-        if(c==k) return true;
+        if(c==k) 
+        return true;
     }
     return false;
     
