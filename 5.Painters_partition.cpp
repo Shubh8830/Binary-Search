@@ -1,8 +1,6 @@
 class Solution
 {
-    
   public:
-  
   bool ispossible(int arr[], int n, int k, long long mid){
       long long sum =0;
       int count =1;
