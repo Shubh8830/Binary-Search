@@ -13,9 +13,7 @@ class Solution
               sum = arr[i];
               if(count>k){
                   return false;
-              }
-              
-              
+              }    
           }else{
               
               sum+=arr[i];
