@@ -18,8 +18,7 @@ class Solution
                 pagesum = arr[i];
             }
         }
-        return true;
-        
+        return true;     
     }
     int findPages(int arr[], int N, int M) 
     {
