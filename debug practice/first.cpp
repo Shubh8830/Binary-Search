@@ -27,7 +27,6 @@
 //         cout << "Element found at index " << result << endl;
 //     return 0;
 // }
-
 //Answer
 #include <iostream>
 using namespace std;
