@@ -35,7 +35,7 @@ int binarySearch(int arr[], int left, int right, int x) {
     while (right >= left) {
         int mid = (left + right) / 2;
         if (arr[mid] == x)
-            
+            return mid;
         else if (arr[mid] > x)
             right = mid-1;
         else
