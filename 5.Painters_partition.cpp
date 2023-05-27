@@ -21,8 +21,7 @@ class Solution
           }else{
               
               sum+=arr[i];
-          }
-         
+          }     
       }
       return true;
   }
