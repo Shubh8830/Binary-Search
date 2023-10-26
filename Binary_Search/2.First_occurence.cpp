@@ -2,7 +2,8 @@
 #include <vector>
 using namespace std;
 int firstocc(vector<int> &arr, int target)
-{
+{\
+
 
     int start = 0;
     
