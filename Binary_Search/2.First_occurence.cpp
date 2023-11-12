@@ -9,6 +9,8 @@ int firstocc(vector<int> &arr, int target)
     int end = arr.size() - 1;
     int mid = start + (end - start) / 2;
     int ans;
+
+    
     
     
     while (start <= end)

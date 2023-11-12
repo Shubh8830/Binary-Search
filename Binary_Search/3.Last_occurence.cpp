@@ -35,3 +35,8 @@ int main()
 
     return 0;
 }
+#include<iostream>
+using nmaespace std;
+int main(){
+    
+}
